@@ -19,6 +19,8 @@
   "changesets": [
     "email-editor-children-prop",
     "fix-preview-url-parse",
+    "image-upload-plugin",
+    "public-corners-carry",
     "spotty-rice-shop"
   ]
 }
